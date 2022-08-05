@@ -1,0 +1,17 @@
+body {
+  background-color:powderblue;
+}
+h1{
+  color: pink;
+}
+  h3{
+    color:grey;
+  }
+hr {
+  border-style:none;
+  border-top-style:dotted;
+  border-color:red;
+  border-width: 5px;
+  width40%;
+
+}
